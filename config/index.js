@@ -45,8 +45,8 @@ export const config = {
     }, 
     {
       name: "平平小仙女的人间使者", 
-      id: "oWbBN5lbLJbD6E93xnUJWhZ98rjU",
-      useTemplateId: "PnO-uiJH5uTzTqYBf-oPMhZCXnTRDwOzGuuMT2Y_MrM",
+      id: "oAaus57XInrnBpc1ajn5vmFeilpA",
+      useTemplateId: "W9NwzdSwW0IpbxQLjtFZOjW2soxkzizw65QXwRmbJBM",
       province: "陕西",
       city: "杨凌",
       openUrl: "https://s.weibo.com/top/summary/"
